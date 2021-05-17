@@ -1,2 +1,2 @@
 # CheatSheet
-## Solutions for Love Babbar's DSA Sheet.
+Solutions for Love Babbar's DSA Sheet.
